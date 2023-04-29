@@ -1,0 +1,17 @@
+{
+  "name": "startingnode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "Alexandre Paixão",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22",
+    "uuid": "^9.0.0"
+  }
+}
